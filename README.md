@@ -2,6 +2,7 @@
 
 Abstract: This project is made to practice git.
 [See Demo](https://www.google.com/)
+
 ## Vim modes
 
 - Normal mode: press 'esc' on ANY mode
@@ -11,8 +12,7 @@ Abstract: This project is made to practice git.
 
 ## Installation
 
-'''
-shell
+'''shell
 $ git clone {repo address}
 #cd {repo name}
 #vid README.md
