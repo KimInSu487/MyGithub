@@ -28,5 +28,4 @@ hello('John Doe')
 
 ## Features
 
-
 Practicing Github handling
